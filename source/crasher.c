@@ -18,7 +18,12 @@ back to atmosphere.
 This give me a idea to crash atmosphere before you pull out sd card, so you can reboot back to cfw
 
 
-This is kind of stupid!   I think it is best to be running ftpd server for file transfers.  
+This is stupid!   I think it is best to be running ftpd server for file transfers.  
+
+also it will wear out the sd reader module in the switch.  I seen several switches with sd read module connector with missing pins.   
+
+
+
 
 ELY M.    
 
