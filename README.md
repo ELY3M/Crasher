@@ -16,7 +16,7 @@ This give me a idea to crash atmosphere before you pull out sd card, so you can 
 
 
 
-This is kind of stupid!   I think it is best to be running ftpd server for file transfers.  
+This is stupid!   It is best to be running ftpd server for file transfers.  you can simply open ftp://switch-ip:5000 in your explorer in windows.     
 
 ELY M.  
 
